@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable-v24/curved.xml" value="0.10885416666666667" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable-v24/ic_home.xml" value="0.19479166666666667" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable-v24/nav.xml" value="0.19479166666666667" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/ic_delete_white.xml" value="0.19479166666666667" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/ic_done_white.xml" value="0.19479166666666667" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/shape_circle01.xml" value="0.1875" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/shape_circle03.xml" value="0.19479166666666667" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/shape_rect01.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/shape_rect02.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/shape_rect03.xml" value="0.19479166666666667" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/shape_rect04.xml" value="0.19479166666666667" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/shape_rect05.xml" value="0.19479166666666667" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/drawable/shape_rect06.xml" value="0.740625" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_add_product.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_edit_product.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_forgot_password.xml" value="0.17864583333333334" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_main_seller.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_main_user.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_order_details_seller.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_order_details_users.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_profile_edit_seller.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_profile_edit_user.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_register_seller.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_register_user.xml" value="0.21" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_settings.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_shop_details.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_shop_reviews.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_write_review.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/bs_product_details_seller.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/dialog_cart.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/dialog_quantity.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/row_cartitem.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/row_order_seller.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/row_order_user.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/row_ordereditem.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/row_product_seller.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/row_product_user.xml" value="0.4337121212121212" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/row_review.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/row_shop.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/app/src/main/res/menu/main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK" />
+</project>

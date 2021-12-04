@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        />
+    <item android:id="@+id/nofication"
+        android:title="Edit Account"
+        android:icon="@drawable/ic_edit_white"
+        />
+    <item android:id="@+id/info"
+        android:title="Review"
+        android:icon="@drawable/ic_star_white"
+        />
+    <item android:id="@+id/account"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings_white"
+        />
+</menu>
